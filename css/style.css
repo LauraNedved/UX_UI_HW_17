@@ -1,0 +1,58 @@
+body {
+    font-family: "Andika New Basic", sans-serif;
+    padding:0;
+    margin:0;
+    background-color: f6f6f6
+
+    }
+
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+    background-color:transparent;
+}
+
+.logo{
+    width:23%;
+    padding:1%;
+    vertical-align: bottom;
+    text-align: center;
+}
+
+nav{
+    width: 72%;
+    padding: 1%;
+    background-color: #f6f6f6;
+}
+
+ul {
+    width: 50%;
+    margin-left: auto;
+    margin-top: auto;
+}
+
+li {
+    padding: 10px;
+    font-weight: bold;
+    font-size: medium;
+}
+
+.heroImg {
+    max-width: 600%;
+    background-color: #6a1b2e;
+    padding: 25px;
+}
+
+.content {
+    width:500px;
+    margin: 0 auto;
+    background-color: #6e7144;
+    padding-left:20px;
+    padding-right:20px;
+}
+
+footer{
+    background-color: #f6f6f6;
+    padding:10px;
+    ;
+}
